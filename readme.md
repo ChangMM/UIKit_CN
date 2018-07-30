@@ -16,7 +16,7 @@ footer: GPL3.0 Licensed | Copyright © 2018-present ChangMM
 </style>
 
 <div style="text-align:center;">
-  <img src="/logo.png" style="height:100px;"></img>
+  <img src="./images/logo.png" style="height:100px;"></img>
 </div>
 
 <p class="start-wrap">
